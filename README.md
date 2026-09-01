@@ -14,7 +14,7 @@ This repository contains the implementation and submission files for our assignm
 ### 🧑‍💻 Satadru Pramanik
 **Enrollment No.** `12023002001146`
 
-### 🧑‍💻 Reetoja Khan
+### 👩‍💻 Reetoja Khan
 **Enrollment No.** `12023002022063`
 
 ### 🧑‍💻 Arijit Naskar
